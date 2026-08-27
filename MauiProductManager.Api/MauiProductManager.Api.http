@@ -1,0 +1,6 @@
+@MauiProductManager.Api_HostAddress = http://localhost:5219
+
+GET {{MauiProductManager.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

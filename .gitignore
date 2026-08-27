@@ -1,0 +1,44 @@
+# Build results
+**/bin/
+**/obj/
+**/out/
+
+# .NET
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+*.cache
+*.dll
+*.exe
+*.pdb
+
+# NuGet
+*.nupkg
+**/packages/*
+!**/packages/repositories.config
+
+# SQLite databases
+*.db
+*.db-journal
+*.db-shm
+*.db-wal
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.swp
+*~
+
+# Platform-specific
+**/Platforms/**/bin/
+**/Platforms/**/obj/
+**/Platforms/Windows/bin/
+**/Platforms/Windows/obj/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log

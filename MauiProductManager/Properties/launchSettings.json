@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "Android Device": {
+      "commandName": "Project",
+      "nativeDebugging": false,
+      "androidPackage": "com.companyname.mauiproductmanager",
+      "targetDevice": "device"
+    },
+    "Windows Machine": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}

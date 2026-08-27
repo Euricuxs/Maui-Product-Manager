@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cat \"C:\\\\Users\\\\Eurico\\\\.nuget\\\\packages\\\\microsoft.maui.controls.build.tasks\\\\10.0.1\\\\buildTransitive\\\\netstandard2.0\\\\Microsoft.Maui.Controls.targets\")",
+      "Read(//c/Users/Eurico/.nuget/packages/microsoft.maui.controls.build.tasks/10.0.1/buildTransitive/netstandard2.0/**)",
+      "Bash(dotnet list *)"
+    ]
+  }
+}

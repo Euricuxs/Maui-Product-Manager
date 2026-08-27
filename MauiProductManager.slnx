@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="MauiProductManager.Api.Tests/MauiProductManager.Api.Tests.csproj" />
+  <Project Path="MauiProductManager.Api/MauiProductManager.Api.csproj" />
+  <Project Path="MauiProductManager.Tests/MauiProductManager.Tests.csproj" />
+  <Project Path="MauiProductManager/MauiProductManager.csproj" />
+</Solution>
